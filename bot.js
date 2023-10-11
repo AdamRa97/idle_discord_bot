@@ -17,4 +17,4 @@ client.on('message', message => {
 });
 
 // Log in using your bot's token
-client.login('MTE2MTUxODUxNTYxOTEyMzI1Mw.GFM8xk.8FEvs0WKkhzhfFrAVCYS6TMWMM-KpDnM12qcx0');
+client.login('enter bot token here');
