@@ -1,1 +1,1 @@
-# idle_discord_bot
+# idle discord bot
